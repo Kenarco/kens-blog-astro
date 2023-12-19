@@ -1,0 +1,14 @@
+---
+import PostsList from "../components/PostsList.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { TWITTER_HANDLE, GITHUB_HANDLE } from "../consts";
+
+const posts = await getCollection("blog");
+
+const sortedPosts = posts
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .filter((post) => !post.data.planned)
+  .slice(0, 3);
+
+---
