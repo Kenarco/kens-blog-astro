@@ -2,7 +2,7 @@
 import PostsList from "../components/PostsList.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
-import { TWITTER_HANDLE, GITHUB_HANDLE } from "../consts";
+import SeriesList from "../components/SeriesList.astro";
 
 const posts = await getCollection("blog");
 
@@ -11,4 +11,46 @@ const sortedPosts = posts
   .filter((post) => !post.data.planned)
   .slice(0, 3);
 
+const featuredPosts = posts.filter((post) => post.data.featured);
+
+const featuredSeries = (await getCollection("series")).filter((s) => s.data.featured);
 ---
+<BaseLayout>
+    {
+      featuredPosts.length > 0 && (
+        <div class="space-y-5">
+          <h1 class="text-3xl text-black dark:text-white">Featured Posts</h1>
+          <PostsList posts={featuredPosts} />
+        </div>
+      )
+    }
+    <div class="space-y-5">
+      <div class="flex items-center justify-between space-x-2">
+        <h1 class="text-3xl text-black dark:text-white">Latest Posts</h1>
+        <a
+          href="/blog"
+          class="inline-flex items-center justify-center py-0.5 px-3 bg-blue-600 hover:bg-blue-800 rounded-full text-sm text-white"
+          >View all</a
+        >
+      </div>
+      <PostsList posts={sortedPosts} />
+    </div>
+    {
+      featuredSeries.length > 0 && (
+        <div class="space-y-5">
+          <div class="flex items-center justify-between space-x-2">
+            <h1 class="text-3xl text-black dark:text-white">Featured Series</h1>
+            <a
+              href="/series"
+              class="inline-flex items-center justify-center py-0.5 px-3 bg-blue-600 hover:bg-blue-800 rounded-full text-sm text-white"
+            >
+              View all
+            </a>
+          </div>
+          <SeriesList series={featuredSeries} />
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>
+

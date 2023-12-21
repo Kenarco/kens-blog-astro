@@ -1,7 +1,6 @@
 {
-  "name": "nimbus-narratives",
-  "author": "Abdullah Elsayed <hi@abdllah.dev>",
-  "repository": "https://github.com/abdllahdev/nimbus-narratives.git",
+  "name": "kens-blog-astro",
+  "author": "Ken Stevens",
   "license": "MIT",
   "type": "module",
   "version": "0.0.1",
