@@ -37,3 +37,6 @@ div[data-rehype-pretty-code-fragment] .highlighted {
   @apply border-blue-400 bg-blue-400/20;
 }
 
+body {
+  background-color: lightblue;
+}
