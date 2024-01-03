@@ -2,10 +2,9 @@
 title: Progress In Learning to Walk
 description: Progress in mobility
 pubDate: 2023-10-15
-tags: [blog]
+tags:
+  - blog
 ---
-
-<div class="text-container">
 
 As I mentioned, back in March I broke my hip and had hip replacement
 surgery. Since then my goal has been learning to walk again. Well, it
@@ -30,5 +29,3 @@ course, being almost 70 years old doesn't help much, I am sure. I take
 small steps right now which I will gradually increase over time.
 
 Well, that is my latest in my progress.
-
-</div>

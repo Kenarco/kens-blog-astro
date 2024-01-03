@@ -1,11 +1,11 @@
 ---
-title: About My Philippine Family
-description: This is my Second post
+title: Introducing My Philippine Family
+description: About my Philippine Family
 pubDate: 2023-08-04
-tags: [blog]
+tags:
+  - blog
 ---
 
-<div class="text-container">  
 I will start off by introducing my Philippine Family,
 and then I will continue with my life in the Philippines.
 
@@ -22,5 +22,3 @@ Although with her I have a little problem. She doesn't listen very well. But I w
 When Tintin were younger I had a similar problem. But she has matured nicely and we are very, very close. I'm hoping it will be the same way with Ashley as she mature.
 
 Next time I'll talk about adapting to the Philippine culture.
-
-</div>

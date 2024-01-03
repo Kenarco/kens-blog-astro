@@ -2,7 +2,8 @@
 title: The history of Christmas
 description: History of Christmas
 pubDate: 2023-12-19
-tags: [blog]
+tags:
+  - blog
 ---
 
 I thought I would tell you a little about the origins and history of Christmas.

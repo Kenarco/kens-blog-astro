@@ -1,11 +1,11 @@
 ---
 title: How I ended up in the Philippines
-description: This is my first post
+description: How I ended up in the Philippines
 pubDate: 2023-08-01
-tags: [blog]
+tags:
+  - blog
 ---
 
-<div class="text-container">
 I am excited to be entering the world of blogging.
 
 I am a United States Citizen living in the Philippines. How did I get here? Why am I here? Those are the question I will answer in the next few sentences or paragraphs. We will see how it turns out.
@@ -21,5 +21,3 @@ So, we started making plans and on February 28, 2020 I left the USA and flew to 
 The interesting part of being here it was the beginning of COVID 19 scare. So after being here for only two weeks we were into Lock-down.
 
 Well, that's enough for my first post. In my send post I will talk about my life in the Philippines, how i am embracing life here, blending our cultures, Parenting and family life, reflections and growth; So make sure to come again and I hope you enjoyed this post.
-
-</div>

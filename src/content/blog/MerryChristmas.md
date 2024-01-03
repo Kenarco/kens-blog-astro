@@ -2,10 +2,10 @@
 title: Merry Christmas
 description: Merry Christmas
 pubDate: 2023-11-20
-tags: [blog]
+tags:
+  - blog
 ---
 
-<div class="text-container">
 Merry Christmas. Yes, Christmas season is approaching. My purpose is to share the difference between the customs in the Philippines and the United States, my country of origin.
 
 In the Philippines Christmas is celebrated as early as September, and the season lasts until the first week of January. The country is known for having the longest Christmas season in the world. Filipinos the season with carols, food, and unique traditions that make Christmas extra special. One of the most commonly observed practices during the season is the midnight mass or Simbang Gabi or Miso de Gallo. Most people believe that a wish may be granted to those that will complete all nine masses. After Simbang Gabi, Filipinos also look forward to freshly cooked bibingka and puto bumbong -- Signature Filipino holiday treats that are sold in the street to fill the bellies of hungry churchgoers. To make Christmas traditions truly special and unique for a memorable and #KakaibangPutoPasko try topping this Christmas favorites with Magnolia Kesomg Puti ice cream to add flavor and make them tastier.
@@ -17,5 +17,3 @@ On a more personal note, Our Christmas tree went up about the middle of Septembe
 More is coming in this blog about the Christmas season in the Philippines.
 
 Make sure to follow us.
-
-</dev>

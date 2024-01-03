@@ -2,7 +2,8 @@
 title: Late Birthday post
 description: A late birthday post
 pubDate: 2023-12-07
-tags: [blog]
+tags:
+  - blog
 ---
 
 <div class="text-container">

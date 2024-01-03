@@ -1,11 +1,11 @@
 ---
 title: Cultural differences
-description: This is my Third post
+description: Cultural differences
 pubDate: 2023-08-10
-tags: [blog]
+tags:
+  - blog
 ---
 
-<div class="text-container">
 Today I will discuss some cultural differences and how well I've adapted to it. I say some cultural differences because I don't think I know them all.
 
 The first cultural difference which comes to mind is something called Filipino time. To me, being an American, 9:00 is 9:00. Not so to the Filipino, If something is scheduled to start at 9:00, the Filipino will show up at 9:30 or 9:45.

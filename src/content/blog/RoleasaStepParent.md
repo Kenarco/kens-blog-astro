@@ -2,10 +2,10 @@
 title: Role as a Step Parent
 description: Step Parent
 pubDate: 2023-08-15
-tags: [blog]
+tags:
+  - blog
 ---
 
-<div class="text-container">
 Today I will talk about my role as step-parent. When I first came to the Philippines my wife expressed interest in me helping her discipline the girls. I really wasn't comfortable with that task, but because my wife expected it of me, I took it on anyway.
 
 Both girls are extremely stubborn, what they didn't count on is I could be more stubborn than they. If you look up the word "stubborn" in an English dictionary, you would see a picture of me.
@@ -25,5 +25,3 @@ She's smart. She's been on honors since the 6th. grade. So academically she will
 My hope for her as she grows in maturity she will become like her older sister and she will learn to bridle her tongue. Otherwise, I fear it will get get her into trouble.
 
 In closing, I'd like to express my thankfulness to God for bringing me to the Philippines and my everlasting gratefulness for giving me such a beautiful and loving family. It is my reward, I think, for living a life full of faith.
-
-</div>
